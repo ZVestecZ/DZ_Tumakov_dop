@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ_Tumakov_dop", "DZ_Tumakov_dop.csproj", "{D0E31127-BA0E-4A86-BC30-F084A7B7BC9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0E31127-BA0E-4A86-BC30-F084A7B7BC9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E31127-BA0E-4A86-BC30-F084A7B7BC9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E31127-BA0E-4A86-BC30-F084A7B7BC9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0E31127-BA0E-4A86-BC30-F084A7B7BC9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BA24057-3377-491A-9DB9-5BCC66F49901}
+	EndGlobalSection
+EndGlobal
